@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Saurabh. I'm a computer science graduate student at California State University, Fullerton.
+
+You can [email me](mailto:saurab.mish@gmail.com), or find me on:
+
++ [LinkedIn]
+
++ [StackExchange]
+
+
+[LinkedIn]: https://www.linkedin.com/in/saurabmish/
+[StackExchange]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
