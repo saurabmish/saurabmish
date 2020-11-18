@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 I'm Saurabh. I'm a computer science graduate student at California State University, Fullerton.
 
-The repository that I'm working on the most is Data Structures. A similar approach will be  will be followed for the Advanced Algorithms repository.
+The repository that I'm working on the most is [Data Structures]. A similar approach will be  will be followed for the [Advanced Algorithms] repository.
 
 You can [email me](mailto:saurab.mish@gmail.com), or find me on:
 
@@ -21,6 +21,9 @@ You can [email me](mailto:saurab.mish@gmail.com), or find me on:
 + [StackExchange]
 
 ----
+
+[Data Structures]: https://github.com/saurabmish/Data-Structures
+[Advanced Algorithms]: https://github.com/saurabmish/Advanced-Algorithms
 
 [LinkedIn]: https://www.linkedin.com/in/saurabmish/
 [StackExchange]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
