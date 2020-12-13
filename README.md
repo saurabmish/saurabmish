@@ -12,19 +12,22 @@ Here are some ideas to get you started:
 
 I'm Saurabh. I'm a computer science graduate student at California State University, Fullerton.
 
-The repository that I'm working on the most is [Spring Boot]. In this project I'm trying to understand how a modern Java microservice application works. My focus in on RESTful API development & testing using spring microservices.
+The repository that I'm working on the most are [Spring Boot][1] and [Reddit Backend][2]. 
+
+In the Spring Boot project, I'm trying to understand how a modern Java microservice application works. My focus in on RESTful API development & testing using spring microservices.
+
+In the Reddit Backend project, I'm revisiting the project for a course I was enrolled in Spring 2020. See whats new [here][2].
 
 You can [email me](mailto:saurab.mish@gmail.com), or find me on:
 
-+ [LinkedIn]
++ [LinkedIn][3]
 
-+ [StackExchange]
++ [StackExchange][4]
 
 ----
 
-[Spring Boot]: https://github.com/saurabmish/Spring-Boot
-[Data Structures]: https://github.com/saurabmish/Data-Structures
-[Advanced Algorithms]: https://github.com/saurabmish/Advanced-Algorithms
+[1]: https://github.com/saurabmish/Spring-Boot
+[2]: https://github.com/saurabmish/Reddit-Backend
 
-[LinkedIn]: https://www.linkedin.com/in/saurabmish/
-[StackExchange]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
+[3]: https://www.linkedin.com/in/saurabmish/
+[4]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
