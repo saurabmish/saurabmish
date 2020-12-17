@@ -16,18 +16,20 @@ The repository that I'm working on the most are [Spring Boot][1] and [Reddit Bac
 
 In the Spring Boot project, I'm trying to understand how a modern Java microservice application works. My focus in on RESTful API development & testing using spring microservices.
 
-In the Reddit Backend project, I'm revisiting the project for a course I was enrolled in Spring 2020. See whats new [here][2].
+In the Reddit Backend project, I'm [revisiting the project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
+
+Serious projects (pinned) contain remote build environments like Travis CI and CircleCI, as well as complete coverage for souce code and test cases.
 
 You can [email me](mailto:saurab.mish@gmail.com), or find me on:
 
-+ [LinkedIn][3]
++ [LinkedIn][4]
 
-+ [StackExchange][4]
++ [StackExchange][5]
 
 ----
 
 [1]: https://github.com/saurabmish/Spring-Boot
 [2]: https://github.com/saurabmish/Reddit-Backend
-
-[3]: https://www.linkedin.com/in/saurabmish/
-[4]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
+[3]: https://github.com/sean-maclane/cpsc-449-group-c-project
+[4]: https://www.linkedin.com/in/saurabmish/
+[5]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
