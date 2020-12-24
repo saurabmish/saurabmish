@@ -18,7 +18,7 @@ In the Spring Boot project, I'm trying to understand how a modern Java microserv
 
 In the Reddit Backend project, I'm [revisiting the project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
 
-Serious projects (pinned) contain remote build environments like Travis CI and CircleCI, as well as complete coverage for souce code and test cases.
+Serious projects (pinned) are integrated with remote build environments like Travis CI, CircleCI, and GitHub Actions, where complete coverage for souce code and test cases are performed.
 
 You can [email me](mailto:saurab.mish@gmail.com), or find me on:
 
