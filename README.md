@@ -14,9 +14,9 @@ I'm Saurabh. I'm a computer science graduate student at California State Univers
 
 The repositories that I'm working on the most are [Reddit Backend][1] and [Spring Boot][2].
 
-In the Spring Boot project, I'm trying to understand how a modern Java microservice application works. My focus in on RESTful API development & testing using spring microservices.
+In the Reddit Backend project, I'm [revisiting the group project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
 
-In the Reddit Backend project, I'm [revisiting the project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
+In the Spring Boot project, I'm trying to understand how a modern Java microservice application works. My focus in on RESTful API development & testing using spring microservices.
 
 Serious projects (pinned) are integrated with remote build environments like Travis CI, CircleCI, and GitHub Actions, where complete coverage for souce code and test cases are performed.
 
