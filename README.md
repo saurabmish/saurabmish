@@ -12,15 +12,18 @@ Here are some ideas to get you started:
 
 I'm Saurabh. I'm a computer science graduate student at California State University, Fullerton.
 
-The repositories that I'm working on the most are [Reddit Backend][1] and [Spring Boot][2].
+The repositories that I'm working on the most are:
+1. [Reddit Backend][1]
+2. [Microblog][2]
+3. [Car Inventory][3]
 
-In the Reddit Backend project, I'm [revisiting the group project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
++ In the Reddit Backend project, I'm [revisiting the group project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
 
-In the Spring Boot project, I'm trying to understand how a modern Java microservice application works. My focus in on RESTful API development & testing using spring microservices.
++ In the Microblog project, I'm implementing a full-stack application using Python's Django microservices.
 
-Serious projects (pinned) are integrated with remote build environments like Travis CI, CircleCI, and GitHub Actions, where complete coverage for souce code and test cases are performed.
++ The Car Inventory project consists of API development using Java's Spring microservices with TDD approach. This is the right project to get started with test-driven development because Java is enterprise-y!
 
-You can [email me](mailto:saurab.mish@gmail.com), or find me on:
+You can also find me on:
 
 + [LinkedIn][4]
 
@@ -29,7 +32,8 @@ You can [email me](mailto:saurab.mish@gmail.com), or find me on:
 ----
 
 [1]: https://github.com/saurabmish/Reddit-Backend
-[2]: https://github.com/saurabmish/Spring-Boot
-[3]: https://github.com/sean-maclane/cpsc-449-group-c-project
-[4]: https://www.linkedin.com/in/saurabmish/
-[5]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
+[2]: https://github.com/saurabmish/Microblog
+[3]: https://github.com/saurabmish/Car-Inventory
+[4]: https://github.com/sean-maclane/cpsc-449-group-c-project
+[5]: https://www.linkedin.com/in/saurabmish/
+[6]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
