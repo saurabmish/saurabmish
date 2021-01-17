@@ -14,14 +14,18 @@ I'm Saurabh. I'm a computer science graduate student at California State Univers
 
 The repositories that I'm working on the most are:
 1. [Reddit Backend][1]
+
+    + I'm [revisiting the group project][4] for a course I was enrolled in, during Spring 2020. 
+    + See whats new [here][1].
+
 2. [Microblog][2]
+
+    + Full-stack web application using Python's Django microservices.
+
 3. [Car Inventory][3]
 
-+ In the Reddit Backend project, I'm [revisiting the group project][3] for a course I was enrolled in, during Spring 2020. See whats new [here][2].
-
-+ In the Microblog project, I'm implementing a full-stack application using Python's Django microservices.
-
-+ The Car Inventory project consists of API development using Java's Spring microservices with TDD approach. This is the right project to get started with test-driven development because Java is enterprise-y!
+    + API development using Java's Spring microservices with TDD approach.
+    + This is the right project to get started with test-driven development because Java is enterprise-y!
 
 You can also find me on:
 
