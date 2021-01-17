@@ -29,9 +29,9 @@ The repositories that I'm working on the most are:
 
 You can also find me on:
 
-+ [LinkedIn][4]
++ [LinkedIn][5]
 
-+ [StackExchange][5]
++ [StackExchange][6]
 
 ----
 
