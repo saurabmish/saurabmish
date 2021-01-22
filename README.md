@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 
 I'm Saurabh. I'm a computer science graduate student at California State University, Fullerton.
 
+Testing, coverage, and continuous integration, is common to all pinned repositories.
+
 The repositories that I'm working on the most are:
 1. [Reddit Backend][1]
 
