@@ -24,10 +24,10 @@ The repositories that I'm working on the most are:
 
     + Full-stack web application using Python's Django microservices.
 
-3. [Car Inventory][3]
+3. [Coffee Shop][3]
 
-    + API development using Java's Spring microservices with TDD approach.
-    + This is the right project to get started with test-driven development because Java is enterprise-y!
+    + API development using microservices in Go
+
 
 You can also find me on:
 
@@ -39,7 +39,7 @@ You can also find me on:
 
 [1]: https://github.com/saurabmish/Reddit-Backend
 [2]: https://github.com/saurabmish/Microblog
-[3]: https://github.com/saurabmish/Car-Inventory
+[3]: https://github.com/saurabmish/Coffee-Shop
 [4]: https://github.com/sean-maclane/cpsc-449-group-c-project
 [5]: https://www.linkedin.com/in/saurabmish/
 [6]: https://stackexchange.com/users/13375762/saurabh?tab=accounts
