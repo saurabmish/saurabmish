@@ -17,16 +17,17 @@ Testing, coverage, continuous integration, and documentation are common to all p
 The repositories that I'm working on the most are:
 1. [Reddit Backend][1]
 
+    + API development (with persistent data) using Python's Flask microservices
     + I'm [revisiting the group project][4] for a course I was enrolled in, during Spring 2020. 
     + See whats new [here][1].
 
 2. [Microblog][2]
 
-    + Full-stack web application using Python's Django microservices.
+    + Full-stack web application using Python's Django microservices
 
 3. [Coffee Shop][3]
 
-    + API development using microservices in Go
+    + API development (with in-memory data) Go microservices
 
 
 You can also find me on:
