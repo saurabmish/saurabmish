@@ -27,7 +27,7 @@ The repositories that I'm working on the most are:
 
 3. [Coffee Shop][3]
 
-    + API development (with in-memory data) Go microservices
+    + API development (with in-memory data) using microservices in Go
 
 
 You can also find me on:
