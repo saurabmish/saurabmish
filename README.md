@@ -10,25 +10,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-I'm Saurabh. I'm a computer science graduate student at California State University, Fullerton.
-
-Testing, coverage, continuous integration, and documentation are common to all pinned repositories.
+I'm Saurabh. I've recently graduated from California State University, Fullerton.
 
 The repositories that I'm working on the most are:
-1. [Reddit Backend][1]
 
-    + API development (with persistent data) using Python's Flask microservices
-    + I'm [revisiting the group project][4] for a course I was enrolled in, during Spring 2020. 
-    + See whats new [here][1].
+
+1. [Coffee Shop][3]
+
+    + API development (with in-memory data) using microservices in Go
 
 2. [Microblog][2]
 
     + Full-stack web application using Python's Django microservices
 
-3. [Coffee Shop][3]
+3. [Reddit Backend][1]
 
-    + API development (with in-memory data) using microservices in Go
+    + API development (with persistent data) using Python's Flask microservices
+    + I'm [revisiting the group project][4] for a course I was enrolled in, during Spring 2020. 
+    + See whats new [here][1].
 
+
+**Testing, coverage, continuous integration, and documentation are common to all pinned repositories.**
 
 You can also find me on:
 
