@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-Moving stuuf here over to GitLab:
+I'm moving stuff here to my GitLab:
 https://gitlab.com/sauhrabh
 
 You can also find me on:
